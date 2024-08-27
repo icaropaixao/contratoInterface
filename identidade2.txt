@@ -3,3 +3,5 @@ Adicionei denovo
 ícaro
 idade 20
 altura 1,76
+
+cor de cabelo
